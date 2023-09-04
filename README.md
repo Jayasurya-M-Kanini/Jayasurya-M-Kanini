@@ -30,7 +30,7 @@ I'm always eager to dive into frameworks and libraries that enhance productivity
 
 ✨ Apart from coding, I enjoy staying up to date with the latest industry trends, attending tech meetups, and engaging in online communities to exchange knowledge and ideas. Continuous learning is a fundamental aspect of my journey as a developer. 📚
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaythewebdev&show_icons=true&locale=en&layout=compact" alt="jaythewebdev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayasurya-M-Kanini&show_icons=true&locale=en&layout=compact" alt="Jayasurya-M-Kanini" />
 </p>
 
 📫 If you have any questions, suggestions, or exciting opportunities, feel free to reach out. Let's connect and make a positive impact together! 😊
@@ -43,6 +43,6 @@ I'm always eager to dive into frameworks and libraries that enhance productivity
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaythewebdev&" alt="jaythewebdev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasurya-M-Kanini&" alt="Jayasurya-M-Kanini" />
 </p>
 
